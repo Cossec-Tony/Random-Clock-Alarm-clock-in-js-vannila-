@@ -1,0 +1,52 @@
+{
+    "name": "Random Clock",
+    "short_name": "R-C",
+    "start_url": "/clock-de-0.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "Image/Basic_Ui_1233-72-72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "Image/Basic_Ui_1233-96-96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "Image/Basic_Ui_1233-128-128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "Image/Basic_Ui_1233-144-144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "Image/Basic_Ui_1233-152-152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "Image/Basic_Ui_1233-192-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "Image/Basic_Ui_1233-384-384.png",
+        "type": "image/png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "Image/Basic_Ui_1233-512-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
