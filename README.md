@@ -1,4 +1,4 @@
-# Random-Clock
+# Random-Clock (Alarm clock in js vannila)
 
 The project consists of connecting your youtube playlist to an alarm clock which,
 when it wakes you up, randomly chooses music from your playlist and plays it.
